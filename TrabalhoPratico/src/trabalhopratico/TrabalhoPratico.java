@@ -6,7 +6,7 @@ package trabalhopratico;
 
 /**
  *
- * @author Vitor Hugo
+ * @author Nikolas Caldeira
  */
 public class TrabalhoPratico {
 
